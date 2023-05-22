@@ -1,0 +1,28 @@
+LIBRARY   rmOpenGL
+EXPORTS
+   open   @1
+   close   @2
+   setRenderTargetViewClearColor   @3
+   clearRenderTargetView   @4
+   present   @5
+   setViewport   @6
+   createTexture   @7
+   deleteTexture   @8
+   createShaderPipeline   @9
+   deleteShaderPipeline   @10
+   updateDisplayDimensions   @11
+   openFont   @12
+   setFontType   @13
+   setTextPos   @14
+   setTextColor   @15
+   setTextSize   @16
+   setTextDepth   @17
+   setTextJustification   @18
+   renderText   @19
+   renderUIElement   @20
+   registerUIElement   @21
+   renderUIRegister   @22
+   getPointedEntry   @23
+   createModel   @24
+   allocateStaticActor   @25
+   setCamera   @26
